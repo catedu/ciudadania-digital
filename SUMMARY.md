@@ -1,12 +1,18 @@
 # Summary
 
-## Capítulo 1
+## Capítulo 1 Alfabetización digital
 
 * [Introudcción 1](capitulo-uno/README.md)
 
-## Capítulo 2
+## Capítulo 2 Seguridad
 
-* [Otro apartado](apartado-uno-cap-dos.md)
+* [Seguridad](/seguridad/seguridad.md)
+* [Peligros](/seguridad/peligros.md)
+* [Recursos](/seguridad/recursos.md)
+* [Control parental](/seguridad/control-parental.md)
+* [Para saber +](/seguridad/para-saber-+.md)
+
+
 
 
 ---
