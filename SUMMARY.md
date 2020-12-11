@@ -2,7 +2,7 @@
 
 ## Capítulo 1 Alfabetización digital
 
-* [Introducción 1](capitulo-uno/README.md)
+* [Introducción 1](alfabetizacion/que-se-entiende.md)
 
 ## Capítulo 2 Seguridad
 
