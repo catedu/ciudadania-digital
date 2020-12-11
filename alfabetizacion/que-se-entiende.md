@@ -1,6 +1,11 @@
 ## ¿ Qué se entiende por alfabetizacion digital?
+Pues depende del contexto y del momento, por ejemplo.. en el 2004 se inició en Aragón el programa Pizarra digital y luego Escuela 2.0 en aquella época se consideraba *Alfabeto digital* que el profesor fuera capaz de dar clase con el proyector y/o PDI de forma correcta, lo que se llamaba *La pizarra del profesorado*
 
-La respuesta se encuentra dentro del Marco de Referencia de la Competencia Digital Docente donde se definen las capacidades digitales que necesitan desarrollar los docentes, es un documento que se ha desarrollado en el INTEF en colaboración con las comunidades autónomas y se encuentra actualizado en este enlace: http://aprende.intef.es/mccdd?
+![](/assets/HOJARUTA.jpg)
+
+##Marco de referencia de la comptencia digital docente
+
+Actualmente el standard de la alabetización digital la encontramos en el **Marco de Referencia de la Competencia Digital Docente** donde se definen las capacidades digitales que necesitan desarrollar los docentes. Es un documento que se ha desarrollado en el INTEF en colaboración con las comunidades autónomas y se encuentra actualizado en este enlace: http://aprende.intef.es/mccdd?
 
 ![](/assets/marcodigital.jpg)
 
@@ -45,6 +50,16 @@ Dentro de cada competencia hay varios niveles, análogo a los niveles de idiomas
 
 LA **ALFABETIZACIÓN DIGITAL** la podemos interpretar con el nivel **A Básico**.
 
-Los requisitos específicos se pueden leer con detalle en el documento, aquí vamos a nombrar los requisitos genéricos para cada una de las competencias
+>**danger**
+>## ¿Qué es el nivel A?
+>
+>**A1 =** Esta persona posee un nivel de competencia básico y requiere apoyo para poder desarrollar su competencia digital.
+>
+>**A2=**Esta persona posee un nivel de competencia básico, aunque con cierto nivel de
+autonomía y con un apoyo apropiado, puede desarrollar su competencia digital.
+
+Los requisitos específicos se pueden leer con detalle en el documento, aquí vamos a nombrar los requisitos genéricos para cada una de las competencias referidos sólo al nivel Básico.
+
+>Si quiere consultar con detalle los requisitos de este nivel y de los niveles B y C consulta el documento en http://aprende.intef.es/mccdd?
 
 *Autor INTEF http://aprende.intef.es/ Licencia CC-BY-SA*

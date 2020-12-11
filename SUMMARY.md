@@ -2,7 +2,13 @@
 
 ## Capítulo 1 Alfabetización digital
 
-* [Introducción 1](alfabetizacion/que-se-entiende.md)
+* [¿Qué es?](alfabetizacion/que-se-entiende.md)
+* [1 Información](alfabetizacion/area1.md)
+* [2 Comunicación](alfabetizacion/area2.md)
+* [3 Creación](alfabetizacion/area3.md)
+* [4 Seguridad](alfabetizacion/area4.md)
+* [5 Resolución problemas](alfabetizacion/area5.md)
+
 
 ## Capítulo 2 Seguridad
 
