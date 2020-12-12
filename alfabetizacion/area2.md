@@ -22,7 +22,7 @@ Compartir la ubicación de la información y de los contenidos digitales encontr
 ##Participación ciudadana en línea
 Implicarse con la sociedad mediante la participación en línea, buscar oportunidades tecnológicas para el empoderamiento y el auto‐desarrollo en cuanto a las tecnologías y a los entornos digitales, ser consciente del potencial de la tecnología para la participación ciudadana.
 
-**NIVEL BÁSICO:  
+**NIVEL BÁSICO:**  
 
 * Sabe que la tecnología se puede utilizar para interactuar con distintos servicios y hace un uso pasivo de algunos, en el ámbito educativo.
 * Colaboración mediante canales digitales

@@ -18,6 +18,11 @@
 * [Control parental](seguridad/control-parental.md)
 * [Para saber +](seguridad/para-saber-+.md)
 
+## Capítulo 3 Licencias
+
+* [Recursos abiertos](licencias/recursos-abiertos.md)
+* [Licencias CC](licencias/licencias-cc.md)
+* [Referenciar](licencias/referenciar.md)
 
 
 
