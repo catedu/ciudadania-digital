@@ -22,7 +22,9 @@
 
 * [Recursos abiertos](licencias/recursos-abiertos.md)
 * [Licencias CC](licencias/licencias-cc.md)
+* [Imágenes](dondeimagenes.md)
 * [Referenciar](licencias/referenciar.md)
+
 
 
 
