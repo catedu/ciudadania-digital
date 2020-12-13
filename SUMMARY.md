@@ -1,5 +1,7 @@
 # Summary
 
+* [Inicio](README.md)
+
 ## Capítulo 1 Alfabetización digital
 
 * [¿Qué es?](alfabetizacion/que-se-entiende.md)
