@@ -15,6 +15,7 @@
 ## Capítulo 2 Seguridad
 
 * [Seguridad](seguridad/seguridad.md)
+* [Privacidad](seguridad/privacidad.md)
 * [Peligros](seguridad/peligros.md)
 * [Recursos](seguridad/recursos.md)
 * [Control parental](seguridad/control-parental.md)
