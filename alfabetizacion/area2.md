@@ -10,7 +10,7 @@ Interaccionar por medio de diversos dispositivos y aplicaciones digitales, enten
 **NIVEL BÁSICO :**
 
 * Sabe que la red es una fuente de recursos, aplicaciones y plataformas para la comunicación en general, y de forma particular con sus compañeros, alumnos, familias y administración educativa.
-Interactúa con otros utilizando las características básicas de las herramientas de comunicación.
+* Interactúa con otros utilizando las características básicas de las herramientas de comunicación.
 
 ##Compartir información y contenidos digitales.
 Compartir la ubicación de la información y de los contenidos digitales encontrados, estar dispuesto y ser capaz de compartir conocimiento, contenidos y recursos, actuar como intermediario, ser proactivo en la difusión de noticias, contenidos y recursos, conocer las prácticas de citación y referencias e integrar nueva información en el conjunto de conocimientos existentes.
