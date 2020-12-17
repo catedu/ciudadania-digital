@@ -27,9 +27,6 @@
 * [Imágenes](licencias/dondeimagenes.md)
 * [Referenciar](licencias/referenciar.md)
 
-
-
-
 ---
 
 * [Créditos](creditos.md)
