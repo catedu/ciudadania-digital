@@ -15,7 +15,7 @@
 ## Capítulo 2 Seguridad
 
 * [Seguridad](seguridad/seguridad.md)
-* [Ciberataques](/seguiridad/ciberataques.md)
+* [Ciberataques](/seguridad/ciberataques.md)
 * [Privacidad](seguridad/privacidad.md)
 * [Peligros](seguridad/peligros.md)
 * [Recursos](seguridad/recursos.md)
