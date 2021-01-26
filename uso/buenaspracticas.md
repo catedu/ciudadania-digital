@@ -8,7 +8,7 @@ Si tienes que enviar correos masivos, [utiliza herramientas de combinación y de
 
 
 ## No extiendas bulos y fake news
-Merece [un capítulo](etica.md) aparte ...
+Merece [un capítulo](bulo.md) aparte ...
 
 ## No pinches en los enlaces alegremente
 
@@ -19,10 +19,35 @@ Pincha en este enlace [http://www.catedu.es](https://matias.ma/nsfw/)
 
 ¿ Qué puedo hacer para que otra vez no pase?
 
-Fijarte dónde va exáctamente el enlace. **EL TEXTO DE UN ENLACE Y EL ENLACE SON COSAS INDEPENDIENTES" como has visto, pon el cursos y fíjate abajo a la izquierda :
+Fijarte dónde va exáctamente el enlace. **EL TEXTO DE UN ENLACE Y EL ENLACE SON COSAS INDEPENDIENTES" como has visto.
+
+#### Para detectarlo
+
+Pon el cursor encima sin hacer click y fíjate abajo a la izquierda :
 
 ![](/assets/enlaces.jpg)
 
 Igualmente en correos electrónicos, links en imágenes, whatsapps, ...
 
 ![](/assets/enlaces2.jpg)
+
+## No te precipites pinchando anuncios
+
+Imagina que pulsas en **descargar algo** y te sale esta página
+
+![](/assets/descarga2.jpg)
+
+¿Clickas en "Haz click aquí para empezar la descarga"? **NO** eso es un anuncio, fíjate bien!! En Internet no solemos leer y dice que hay que esperar a que salga el enlace.
+
+Y **bajo ningún concepto** des "Permisos" para descargar o continuar. Se instala código malicioso.
+
+![](/assets/descarga3.jpg)
+
+>**danger**
+>## Regla de oro
+> No descargues software ni archivos de sitios no oficiales o de confianza.
+> ## y por supeusto ..
+> Nada de piratería  !!
+
+## Utiliza buenos buscadores
+Merece otra [página](internet.md) aparte...

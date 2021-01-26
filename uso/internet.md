@@ -8,7 +8,7 @@ Si te fijas en esta búsqueda:
 
 1. Nos muesta anuncios de su guia de compras
 1. El primer resultado (y a veces el 2º, 3º..) son anuncios
-1. Este resultado se repite en el 1
+1. Este resultado se repite en el anterior punto 2
 1. Este resultado ya empieza a ser bueno
 
 P: ¿Qué hay en otros resultados? R: Casi nadie lo ve.
@@ -17,10 +17,12 @@ P: ¿Qué hay en otros resultados? R: Casi nadie lo ve.
 
 ## ¿Por qué siempre usamos el mismo navegador?
 
-Por costumbre y por imposición de que se nos instala el navegador por defecto. *Google, Bing, ...* utilizan estrategias para que uses sus buscadores y sus navegadores con esos buscadores predeterminados (*Chrome, Internet Explorer...*)
+Por costumbre y por imposición de que se nos instala navegadores (*Chrome, Internet Explorer...*) y buscadores por defecto (*Google, Bing, ...*)
+
+Utilizan estrategias agresivas para que uses sus productos
 
 #### ¿Por qué tienen tanto interés?
-Por dinero, por supuesto, cada consulta [crea unos 0.005€ de beneficio](https://www.ventureharbour.com/visualising-size-google-bing-yahoo/) ¡¡muy poco!! pero si son millones de € !!!
+Por dinero, por supuesto, cada consulta [crea unos 0.005€ de beneficio](https://www.ventureharbour.com/visualising-size-google-bing-yahoo/) ¿¿muy poco?? ¡¡ pero si son billones de € !!!
 
 ![](https://web.catedu.es/wp-content/uploads/2017/04/google-bing-yahoo-revenue1-300x200.png)
 
@@ -59,3 +61,7 @@ Destina el 80% de los beneficios en plantar árboles. La desventaja es que usa e
 ![](https://web.catedu.es/wp-content/uploads/2017/04/2017-05-01_10_33_39-Que_es_Lilo__-_Lilo-768x124.jpg)
 
 El 50% lo dona a proyectos. Tú puedes decidir a qué proyectos quieres ayudar
+
+## Cambiar de buscador
+
+Si quieres que tu navegador utilice esos buscadores por defecto, tienes que hacerlo manualmente. [Aquí cómo hacerlo por ejemplo con Ecosia](https://docs.google.com/presentation/d/1RfLouuNnFoc8KyTG3eI73lWMtCFu46Ddi14ja3_qCDM/embed?start=false&loop=false&delayms=3000&slide=id.p) o las mismas páginas DuckDuckGo, Ecosia, Lilo... tienen buenos tutoriales)

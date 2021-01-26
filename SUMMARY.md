@@ -35,7 +35,7 @@
 * [Uso responsable centro](uso/usoescuela.md)
 * [Buenas prácticas](uso/buenaspracticas.md)
 * [Buscadores](uso/internet.md)
-* [Bulos](uso/etica.md)
+* [Bulos](uso/bulo.md)
 * [Ayuda](uso/ayuda.md)
 
 ---
