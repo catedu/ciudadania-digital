@@ -1,6 +1,4 @@
-# Ética en Internet
-
-## Bulos y fake news
+# Bulos y fake news
 
 *“Si hace 20 años se hacían llamadas anónimas a los institutos para anunciar una falsa alarma de bomba y evitar, por ejemplo, un examen, en esta ocasión se ha difundido una carta falsa anunciando que se tienen que cerrar todos los centros educativos de un lugar”*
 
@@ -20,11 +18,11 @@ Tenemos que tener en cuenta que casi siempre **hay una intención oculta no éti
 >## NO EXTIENDAS LAS FALSAS NOTICIAS
 > Difundiendo una noticia no contrastada, colaboras con los ciberdelincuentes o estás sirviendo a los intereses de grupos no éticos.
 
-### Preguntate❓
+### Pregúntate❓
 
 1️⃣ **¿Conoces la fuente?**
 
-La falta de links, no ir acompañado de una fuente pública, etc... la fuente es un perfil recien creado... eso es ya muy sospechoso.
+La falta de links, no ir acompañado de una fuente pública, etc... o la fuente es un perfil recien creado... eso es ya muy sospechoso.
 
 Estamos hablando de la fuente original, no de quien te lo ha pasado. Tu primo, tu cuñado o tu amigo NO es una fuente oficial.
 
@@ -47,23 +45,4 @@ Fíjate si es una página satírica, mala redacción, exagera, es **alarmista**.
 
 Una pregunta ¿tiene fecha y fuente? un comunicado oficial no olvida esos detalles.
 
-
-
-
-#StopBulos
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-links malos
+<a href="https://twitter.com/intent/tweet?button_hashtag=StopBulos&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #StopBulos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
