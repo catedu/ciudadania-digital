@@ -29,7 +29,7 @@
 * [Imágenes](licencias/dondeimagenes.md)
 * [Referenciar](licencias/referenciar.md)
 
-## Capítulo 4 Uso resopnsable y ético
+## Capítulo 4 Uso responsable y ético
 
 * [Uso responsable menores](uso/usoresponsable.md)
 * [Uso responsable centro](uso/usoescuela.md)
