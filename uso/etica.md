@@ -20,9 +20,50 @@ Tenemos que tener en cuenta que casi siempre **hay una intención oculta no éti
 >## NO EXTIENDAS LAS FALSAS NOTICIAS
 > Difundiendo una noticia no contrastada, colaboras con los ciberdelincuentes o estás sirviendo a los intereses de grupos no éticos.
 
-Preguntate❓
-1️⃣Conoces al medio
-2️⃣Cuenta alguien más la noticia
-3️⃣Es una página satírica
-4️⃣Tiene una fuente y fecha
-5️⃣Es una alerta
+### Preguntate❓
+
+1️⃣ **¿Conoces la fuente?**
+
+La falta de links, no ir acompañado de una fuente pública, etc... la fuente es un perfil recien creado... eso es ya muy sospechoso.
+
+Estamos hablando de la fuente original, no de quien te lo ha pasado. Tu primo, tu cuñado o tu amigo NO es una fuente oficial.
+
+Que una noticia se reenvie muchas veces no significa que sea veráz.
+
+OJO, si tiene links, no pinches en ellos !!!
+
+2️⃣ **¿Cuenta alguien más la noticia?**
+
+Si al final estás tentando en extenderlo, por favor, antes **VERIFÍCALO** busca en Internet para confirmar la procedencia del mismo y su autenticidad.
+
+Que en la redacción diga que es de la Guardia Civil, no cuesta nada entrar en la cuenta oficial de la web o RRSS de la Guardia Civil si dicen esa noticia. Si no lo dicen es que NO ES VERDAD.
+
+Si la noticia es de hace varias horas y ningún medio de comunicación profesional ha hecho eco, entonces ES FALSO.
+
+
+3️⃣ **Fíjate en la redacción**
+
+Fíjate si es una página satírica, mala redacción, exagera, es **alarmista**... una fuente oficial o de un medio periodístico cuidan la redacción.
+
+Una pregunta ¿tiene fecha y fuente? un comunicado oficial no olvida esos detalles.
+
+
+
+
+#StopBulos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+links malos
