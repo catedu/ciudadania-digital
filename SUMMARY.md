@@ -34,6 +34,7 @@
 * [Uso responsable menores](uso/usoresponsable.md)
 * [Uso responsable centro](uso/usoescuela.md)
 * [Buenas prácticas](uso/buenaspracticas.md)
+* [Buscadores](uso/internet.md)
 * [Bulos](uso/etica.md)
 * [Ayuda](uso/ayuda.md)
 
