@@ -45,4 +45,10 @@ Fíjate si es una página satírica, mala redacción, exagera, es **alarmista**.
 
 Una pregunta ¿tiene fecha y fuente? un comunicado oficial no olvida esos detalles.
 
+## Dale un vistazo a los últimos Bulos
+
+A continuación se muestran los últimos tweets de @StopBulos :
+
+<hr />
+
 <a class="twitter-timeline" href="https://twitter.com/StopBulos?ref_src=twsrc%5Etfw">Tweets by StopBulos</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -50,7 +50,7 @@ Imagina que pulsas en **descargar algo** y te sale esta página
 
 ![](/assets/descarga2.jpg)
 
-¿Clickas en "Haz click aquí para empezar la descarga"? **NO** eso es un anuncio (mejor dicho, una página con código malicioso), fíjate bien!! abajo a la derecha pone *Publicidad* tamaño no apto para mayores de 50.
+¿Clickas en "Haz click aquí para empezar la descarga"? **NO** eso es un anuncio (mejor dicho, una página con código malicioso), fíjate bien!! abajo a la derecha pone *Publicidad* con un tamaño de letra no apto para mayores de 50.
 
 Y **bajo ningún concepto** des "Permisos" para descargar o continuar. Se instala código malicioso.
 
