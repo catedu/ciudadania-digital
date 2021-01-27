@@ -1,6 +1,6 @@
 # Ética en Internet
 
-Tenemos que preguntarnos es
+Tenemos que preguntarnos ....
 
 ## ¿Respeto la opinión de los demás?
 En Internet cualquiera tiene voz y tenemos que ser conscientes de la diversidad de opiniones
@@ -18,3 +18,7 @@ Nuestro comportamiento en las redes,
 ## ¿A que le doy like?¿ qué divulgo?
 
 No apoyes comentarios agresivos, no promuebas ir en contra de las personas. No divulgues algo que no esta **verificado**
+
+![](/assets/etica1.jpg)
+
+Photo by jesse orrico on Unsplash
