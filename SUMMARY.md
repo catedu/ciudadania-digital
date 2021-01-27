@@ -36,6 +36,7 @@
 * [Buenas prácticas](uso/buenaspracticas.md)
 * [Buscadores](uso/internet.md)
 * [Bulos](uso/bulo.md)
+* [Etica](uso/etica.md)
 * [Ayuda](uso/ayuda.md)
 
 ---

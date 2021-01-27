@@ -15,9 +15,9 @@ Merece [un capítulo](bulo.md) aparte ...
 Pincha en este enlace [http://www.catedu.es](https://matias.ma/nsfw/)
 
 * ¿Realmente va la página de CATEDU? 🤔
-* ¡¡¡ Encima le habrás dato al *Trust me* para que se ejecute el Script de la página !!!  😱¡¡podrías haber ejecutado código malicioso !!
+* ¡¡¡ Encima le habrás dato al *Trust me* para que se ejecute el Script de la página !!!  😱 ¿Sabes que podrías haber ejecutado código malicioso ??
 
-¿ Qué puedo hacer para que otra vez no pase?
+¿ Qué puedo hacer para que esto no me pase?
 
 Fijarte dónde va exáctamente el enlace. **EL TEXTO DE UN ENLACE Y EL ENLACE SON COSAS INDEPENDIENTES" como has visto.
 
@@ -37,7 +37,7 @@ Imagina que pulsas en **descargar algo** y te sale esta página
 
 ![](/assets/descarga2.jpg)
 
-¿Clickas en "Haz click aquí para empezar la descarga"? **NO** eso es un anuncio, fíjate bien!! En Internet no solemos leer y dice que hay que esperar a que salga el enlace.
+¿Clickas en "Haz click aquí para empezar la descarga"? **NO** eso es un anuncio (mejor dicho, una página con código malicioso), fíjate bien!! abajo a la derecha pone *Publicidad* tamaño no apto para mayores de 50.
 
 Y **bajo ningún concepto** des "Permisos" para descargar o continuar. Se instala código malicioso.
 

@@ -11,9 +11,11 @@ Si te fijas en esta búsqueda:
 1. Este resultado se repite en el anterior punto 2
 1. Este resultado ya empieza a ser bueno
 
-P: ¿Qué hay en otros resultados? R: Casi nadie lo ve.
+P: ¿Qué hay en otros resultados? R: Casi nadie lo ve. **Ese es el problema**, por lo tanto las empresas pagan fortunas para mejorar sus rankings
 
->Si quieres enterrar a un muerto y que nadie lo descubra hazlo en la segunda página de Google
+>Si quieres enterrar a un muerto y que nadie lo descubra hazlo en la segunda página de Google.
+
+*Rocio Garcia Algora autora del [curso Posicionamiento SEO de Aulargón](https://moodle.catedu.es/course/view.php?id=426)*
 
 ## ¿Por qué siempre usamos el mismo navegador?
 
