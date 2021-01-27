@@ -1,4 +1,4 @@
-# Phising
+# Ojo con los enlaces y el Phising
 
 ## No pinches en los enlaces alegremente.
 
@@ -38,6 +38,8 @@ El protocolo HTTPS (o candado en la barra de navegación) es para que los datos 
 Por lo tanto **SI NO LO LLEVA, NO TE FIES** un banco, un comercio **nunca** navegaría sin cifrar los datos. [ver](https://www.osi.es/es/actualidad/blog/2014/02/28/que-pasa-si-una-pagina-web-no-utiliza-https)
 
 Pero que lo lleve NO es garantía, [la mitad de páginas Phising ya tienen https](https://www.adslzone.net/2018/11/27/mitad-webs-phishing-https/)
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¿Sabes qué es una &quot;Banca electrónica fraudulenta o phishing bancario&quot;? ¿Sabrías identificar una <a href="https://twitter.com/hashtag/Web?src=hash&amp;ref_src=twsrc%5Etfw">#Web</a> &quot;clonada&quot; antes de hacer clic en ella? <br><br>Si estás &quot;pez&quot;... 🤔 no está de más que le eches un vistazo a las recomendaciones de esta infografía 👇👇 <a href="https://twitter.com/hashtag/SeguridadInternet?src=hash&amp;ref_src=twsrc%5Etfw">#SeguridadInternet</a> <a href="https://t.co/pEvcoD19GJ">pic.twitter.com/pEvcoD19GJ</a></p>&mdash; Guardia Civil 🇪🇸 (@guardiacivil) <a href="https://twitter.com/guardiacivil/status/1264843650598649857?ref_src=twsrc%5Etfw">May 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## No te precipites pinchando anuncios
 
