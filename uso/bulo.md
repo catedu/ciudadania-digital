@@ -45,4 +45,4 @@ Fíjate si es una página satírica, mala redacción, exagera, es **alarmista**.
 
 Una pregunta ¿tiene fecha y fuente? un comunicado oficial no olvida esos detalles.
 
-<a href="https://twitter.com/intent/tweet?button_hashtag=StopBulos&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #StopBulos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/StopBulos?ref_src=twsrc%5Etfw">Tweets by StopBulos</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
