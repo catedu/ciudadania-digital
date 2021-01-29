@@ -2,22 +2,18 @@
 
 Tenemos que preguntarnos ....
 
-## ¿Respeto la opinión de los demás?
-En Internet cualquiera tiene voz y tenemos que ser conscientes de la diversidad de opiniones
-**Crea comunidad**, estar abierto a la comunicación
+* **¿Respeto la opinión de los demás?** En Internet cualquiera tiene voz y tenemos que ser conscientes de la diversidad de opiniones
+* **¿Lo que hago qué impacto tiene en la red?** En internet nuestros clicks son votos en esa gran democracia que es la red global, virtual, pero tiene su reflejo en el mundo físico.
+* **¿Mi comportamiento en las redes sociales tiene influencia negativa en otras personas?** lenguaje agresivo, apoyo a contenido violento, ¿A que le doy like?¿ qué divulgo? ...
+* **¿Verifico la información que divulgo?** o soy un eslabón más en la divulgación de bulos y fake news?
+* Si creo contenido **¿Respeto los derechos de autor?** ¿agradecemos a los que comparten?¿compartimos nuestras obras? ¿descargamos software ilegalmente o pirateamos contenido audiovisual?, y evido el uso del [hot linking](https://es.wikipedia.org/wiki/Hotlinking)
+* Si utilizo datos de personas, imágenes de alumnos.. **¿conozco los derecho a la privacidad y la respeto?**
 
-## ¿Lo que hago que impacto tiene?
+![](/assets/etica.jpg)
 
-Una vez me dijeron que un billete es un voto a donde quieres que vaya el mundo. Si te lo gastas en un libro, favoreces más cultura, si te lo gastas en drogas, favoreces que haya más narcotraficantes en el mundo...
+*[Fuente Iberdrola- Compromiso social -  Ética digital](https://www.iberdrola.com/compromiso-social/etica-en-internet)*
 
-En internet nuestros clicks son votos en esa gran democracia que es la red pero tiene su reflejo en el mundo físico.
-
-## ¿Y en otras personas?
-Nuestro comportamiento en las redes,
-
-## ¿A que le doy like?¿ qué divulgo?
-
-No apoyes comentarios agresivos, no promuebas ir en contra de las personas. No divulgues algo que no esta **verificado**
+Internet es una cosa maravillosa, crea comunidad si se está abierto a la comunicación y a la veracidad.
 
 ![](/assets/etica1.jpg)
 
