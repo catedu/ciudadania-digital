@@ -68,12 +68,6 @@ El 50% lo dona a proyectos. Tú puedes decidir a qué proyectos quieres ayudar
 
 Si quieres que tu navegador utilice esos buscadores por defecto, tienes que hacerlo manualmente. [Aquí cómo hacerlo por ejemplo con Ecosia](https://docs.google.com/presentation/d/1RfLouuNnFoc8KyTG3eI73lWMtCFu46Ddi14ja3_qCDM/embed?start=false&loop=false&delayms=3000&slide=id.p) o las mismas páginas DuckDuckGo, Ecosia, Lilo... tienen buenos tutoriales)
 
-## No envíes correos pesados o masivos
-
-Si tienes que adjuntar ficheros pesados, utiliza formatos de compresión apropiados (pdf, rar..) o mejor, utiliza repositorios en la web (Dropbox, [Drive](https://catedu.github.io/soportes-informaticos-profesorado/publicar.html), OneDrive...) y manda símplemente los enlaces, ayudarás a que no se llene la bandeja de entrada de los destinatarios.
-
-Si tienes que enviar correos masivos, [utiliza herramientas de combinación y de diseño apropiados](https://catedu.github.io/soportes-informaticos-profesorado/correo1.html).
-
 ## La publicidad
 
 Tienes que saber detectar en el contenido de una página web cual es el contenido propio y cual es el contenido ajeno o **publicidad**.
