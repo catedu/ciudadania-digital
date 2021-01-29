@@ -102,7 +102,9 @@ Por ejemplo, busco algo de bricolage, y me aparece anuncios de colonias de hombr
 
 ![](/assets/publicidad5.jpg)
 
-## Manipulación y radicalización de la sociedad.
+*Elaboración propia*
+
+## Manipulación y radicalización de la sociedad. BURBUJA INFORMATIVA.
 
 La mayoría de las páginas dependen de su publicidad por lo tanto utilizan algoritmos de inteligencia artificial ( [que a veces se les ha ido de las manos](https://www.elmundo.es/tecnologia/2017/07/28/5979e60646163f5f688b4664.html) ) con el único propósito de que **estés el máximo de tiempo en esa web** : Juegan con tus emociones, te muestran mensajes políticos hiperpartidistas y crean provocaciones (con bulos y fake news incluidos).
 
