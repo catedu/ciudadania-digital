@@ -1,10 +1,10 @@
 #Para saber +   ..... seguridad en la red, ciberayudantes
 
-En **AULARAGON** tenemos un curso exclusivo para esta temática
+En **AULARAGON** tenemos [un curso exclusivo](https://moodle.catedu.es/course/view.php?id=61) para esta temática
 
-Aquí tienes el libro de contenidos para que puedas darle una ojeada
+Aquí tienes el libro de contenidos
 
-https://catedu.gitbooks.io/convivencia-segura-en-la-red/content/
+https://catedu.github.io/convivencia-segura-en-la-red/
 
 * MÓDULO I: **IDENTIDAD DIGITAL**
  * Privacidad e identidad digital.

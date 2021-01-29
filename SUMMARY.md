@@ -14,7 +14,9 @@
 
 ## Capítulo 2 Seguridad
 
+<!--
 * [Seguridad](seguridad/seguridad.md)
+-->
 * [Ciberataques](/seguridad/ciberataques.md)
 * [Enlaces y Phising](/seguridad/phising.md)
 * [Privacidad](seguridad/privacidad.md)
