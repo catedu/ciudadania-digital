@@ -5,7 +5,7 @@
 1. **Finalidades** tener bien claro la finalidad del uso de los equipos que son para aprender. (o qué horario son para el ocio) y en sitios visibles y públicos.
 1. **Bueno uso de la privacidad** tanto de los docentes como de los alumnos. Es importante una buena [formación](https://moodle.catedu.es/course/view.php?id=1044) para el buen uso de los datos personales propios y de los alumnos.
 1. No pedir a los alumnos usos que por edad **no están permitidos**.
-  1. Por ejemplo uso de RRSS horizontales, tienen que ser RRSS dirigidas a la educación. [ver](https://catedu.github.io/rrss-classroom/ojo-no-es-legal.html)
+  1. Por ejemplo no usar redes sociales (RRSS) horizontales Facebook, Twitter... para usarlo con los alumnos tienen que ser **RRSS verticales diseñadas para su uso educativo**, por ejemplo Edmodo. [ver](https://catedu.github.io/rrss-classroom/ojo-no-es-legal.html)
   1. [Menores de 13 años no pueden tener correo electrónico](https://support.google.com/accounts/answer/1350409?hl=es). No podemos pedir que se abran un email personal. Otra cosa es que el centro gestione correos electrónicos corporativos como GSuit Education.
 1. **Educar** sobre el uso de Internet:
   1. Hablar regularmente con ellos sobre los riesgos de enlaces sospechosos en foros, emails, whatsapps.. las [consecuencias](/seguridad/peligros.md)
@@ -14,4 +14,4 @@
 
 ![](/assets/welldone.jpg)
 
-Imagen de Gerd Altmann en Pixabay 
+Imagen de Gerd Altmann en Pixabay

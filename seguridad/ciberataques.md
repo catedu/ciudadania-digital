@@ -1,6 +1,6 @@
 # CIBERATAQUES
 
-Los delincuentes siempre están al acecho, y se aprovechan de nuestro desconocimiento, esta sencilla guia ayudará a disminuir nuestras vulnerabilidades:
+Los delincuentes siempre están al acecho, y se aprovechan de nuestro desconocimiento. Los contenidos de este apartado están en esta sencilla guia que te ayudará a disminuir nuestras vulnerabilidades:
 
 [GUIA DE CIBERATAQUES](https://www.osi.es/sites/default/files/docs/guia-ciberataques/osi-guia-ciberataques.pdf)
 
