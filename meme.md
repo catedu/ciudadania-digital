@@ -1,6 +1,6 @@
-#Memes
+# Memes
 
-Dicen que los memes ayudan a reflexionar y por lo tanto a aprender pues utilizan la diversión como base y por lo tanto se fija más en la mente
+Dicen que los memes ayudan a reflexionar y por lo tanto a aprender ... no lo sé, pero son graciosos 😂
 
 Te proponemos que enriquezcas este muro https://padlet.com/CATEDU/ciudadania
 
