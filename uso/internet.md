@@ -73,3 +73,23 @@ Si quieres que tu navegador utilice esos buscadores por defecto, tienes que hace
 Si tienes que adjuntar ficheros pesados, utiliza formatos de compresión apropiados (pdf, rar..) o mejor, utiliza repositorios en la web (Dropbox, [Drive](https://catedu.github.io/soportes-informaticos-profesorado/publicar.html), OneDrive...) y manda símplemente los enlaces, ayudarás a que no se llene la bandeja de entrada de los destinatarios.
 
 Si tienes que enviar correos masivos, [utiliza herramientas de combinación y de diseño apropiados](https://catedu.github.io/soportes-informaticos-profesorado/correo1.html).
+
+## La publicidad
+
+Tienes que saber detectar en el contenido de una página web cual es el contenido propio y cual es el contenido ajeno o **publicidad**.
+
+Algunas veces el contenido publicitario está muy camuflado con el de la página web que es difícil verlo. Por ejemplo, en una página de iconos para redes sociales, encontré esta imagen. No es un icono de la página, es un anuncio, y se identifica por el símbolo de **Adwords** la filial de Google encargado de los anuncios y principal fuente de ingresos de la compañía.
+
+![](/assets/publicidad.jpg)
+
+## Las cookies
+
+No son virus, no son spam ... pero son archivos de texto que se descargan automáticamente cuando visitas una página y guardan tu **preferencia**.
+
+Son los responsables de que la próxima vez que visites esa página web, se muestre aspecto y contenido personalizado o que vuelves a entrar sin usuario y contraseña. Son las **cookies propias**
+
+Hay también **cookies de terceros** que pueden instalar las RRSS (por ejemplo la página tiene un "me gusta" de Facebook por lo tanto tiene una cookie de Facebook para que ese "me gusta" esté ligado a tu cuenta y además registrar lo que te gusta) o empresas publicitarias (para poner anuncios adaptados a tus gustos e intereses).
+
+**¿Ayuda o intrusión?** Es un debate que no vamos a entrar. La normativa Europea exige desde 26/5/12 que los usuarios acepten o no los usos de las cookies. Pero la realidad es que los diálogos de aceptación están diseñados para que el usuario lo tenga dificil no aceptar las cookies. En este ejemplo, hay que ir opción por opción diciendo que NO 😣, y si vuelves a visitar la página, vuelve a preguntarlo !!! Al final las aceptas y cedes 😥
+
+![](/assets/publicidad2.jpg)
