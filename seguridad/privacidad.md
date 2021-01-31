@@ -14,3 +14,5 @@ Autoría: OSI Oficina de Seguridad el Internauta www.osi.es
 Si quieres configurar tu privacidad en las principales RRSS mira estos [tutoriales](https://www.osi.es/es/guia-de-privacidad-y-seguridad-en-internet)
 
 ![](/assets/tutorialesprivacidad.jpg)(https://www.osi.es/es/guia-de-privacidad-y-seguridad-en-internet)
+
+<a href =https://www.osi.es/es/guia-de-privacidad-y-seguridad-en-internet><stron>https://catedu.github.io/ciudadania-digital/assets/tutorialesprivacidad.jpg</strong></a>
