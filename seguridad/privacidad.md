@@ -15,4 +15,4 @@ Si quieres configurar tu privacidad en las principales RRSS mira estos [tutorial
 
 ![](/assets/tutorialesprivacidad.jpg)(https://www.osi.es/es/guia-de-privacidad-y-seguridad-en-internet)
 
-<a href =https://www.osi.es/es/guia-de-privacidad-y-seguridad-en-internet><stron>https://catedu.github.io/ciudadania-digital/assets/tutorialesprivacidad.jpg</strong></a>
+<a href =https://www.osi.es/es/guia-de-privacidad-y-seguridad-en-internet><strong>https://catedu.github.io/ciudadania-digital/assets/tutorialesprivacidad.jpg</strong></a>
