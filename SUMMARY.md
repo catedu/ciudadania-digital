@@ -38,7 +38,7 @@
 * [Uso responsable centro](uso/usoescuela.md)
 * [Uso Internet y email](uso/internet.md)
 * [Bulos](uso/bulo.md)
-* [Etica](uso/etica.md)
+* [Ética](uso/etica.md)
 * [Ayuda](uso/ayuda.md)
 
 ---

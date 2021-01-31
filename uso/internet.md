@@ -102,13 +102,15 @@ Por ejemplo, busco algo de bricolage, y me aparece anuncios de colonias de hombr
 
 ![](/assets/publicidad5.jpg)
 
-*Elaboración propia*
+*Elaboración propia e iconos de Flaticon*
 
-## Manipulación y radicalización de la sociedad. BURBUJA INFORMATIVA.
+## BURBUJA INFORMATIVA.
 
 La mayoría de las páginas dependen de su publicidad por lo tanto utilizan algoritmos de inteligencia artificial ( [que a veces se les ha ido de las manos](https://www.elmundo.es/tecnologia/2017/07/28/5979e60646163f5f688b4664.html) ) con el único propósito de que **estés el máximo de tiempo en esa web** : Juegan con tus emociones, te muestran mensajes políticos hiperpartidistas y crean provocaciones (con bulos y fake news incluidos).
 
-Si sigues, pinchas, *likeas*... una información de un partido político Y del color Z, te aparecerán más noticias afines a Y dentro del ambiente Z. Un periódico digital te mostrará más noticias de ese color Z, las redes sociales te sugerirán que sigas a personas con el mismo color Z, y te mostrarán eventos o sucesos del color Z... que tú pincharas, difundirás y alimentarás lo que se llama **burbuja informativa** o **filter bubble** y vivimos en la era del **Big Data**.
+>Esto puede provocar en la sociedad **Manipulación y radicalización de la sociedad** .
+
+Si sigues, pinchas, *likeas*... una información de un partido político Y del color Z, te aparecerán más noticias afines a Y dentro del ambiente Z. Un periódico digital te mostrará más noticias de ese color Z, las redes sociales te sugerirán que sigas a personas con el mismo color Z, y te mostrarán eventos o sucesos del color Z... que tú pincharas, difundirás y alimentarás lo que se llama **burbuja informativa** o **"Filter bubble"** consecuencia de que en la era del **Big Data**.
 
 ![](/assets/publicidad4.jpg)
 
