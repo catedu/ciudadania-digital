@@ -125,3 +125,13 @@ Tenemos que educar a nuestro alumnado de estos peligro y de como **Pinchar tu bu
 Te recomiendo ver este vídeo. Ponte los subtítulos si tienes problemas para seguirlo en Inglés.
 
 {% youtube %}https://www.youtube.com/watch?v=B8ofWFx525s&feature=youtu.be {% endyoutube %}
+
+## Cuando hay problemas en la redes
+
+Por último, vamos a comentar un uso racional de la red en los momentos que haya saturación (por ejemplo en el último confinamiento del COVID) [extraido de Telefónica](https://www.fundaciontelefonica.com/noticias/pautas-uso-responsable-internet/) :
+
+* Priorizar el estudio y el trabajo frente al Rocio
+* Usar el teléfono fijo en vez del móvil
+* Conectarse por wifi en vez de datos móviles
+* Mensajes y audios ocupan menos que los vídeos.
+* Comprime los adjuntos de los emails o manda links
