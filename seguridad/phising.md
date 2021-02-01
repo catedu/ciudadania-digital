@@ -9,10 +9,10 @@
 
 Pincha en este enlace [https://www.catedu.es](https://matias.ma/nsfw/)
 
-* ¿Realmente va la página de CATEDU? 🤔
-* ¡¡¡ Encima le habrás dato al *Trust me* para que se ejecute el Script de la página !!!  😱 ¿Sabes que podrías haber ejecutado código malicioso ??
+* ¿Realmente va a la página de CATEDU? 🤔
+* ¡¡¡Encima le habrás dato al *Trust me* para que se ejecute el Script de la página!!!  😱 ¿Sabes que podrías haber ejecutado código malicioso??
 
-¿ Qué puedo hacer para que esto no me pase?
+¿Qué puedo hacer para que esto no me pase?
 
 Fijarte dónde va exáctamente el enlace. **EL TEXTO DE UN ENLACE Y EL ENLACE SON COSAS INDEPENDIENTES" como has visto.
 
@@ -60,4 +60,4 @@ Y **bajo ningún concepto** des "Permisos" para descargar o continuar. Se instal
 >## Regla de oro
 > No descargues software ni archivos de sitios no oficiales o de confianza.
 > ## y por supuesto ..
-> Nada de piratería  !! No te hagas el listo instalando software que prometen que es gratis instalando un programa crack. Piensa ... ¿para qué crean esos programas?¿altruismo? No, para que tú ejecutes un código malicioso.
+> Nada de piratería!! Si te llega un programa de pago pero de manera gratuita piensa... ¿por qué lo hacen? ¿altruismo? No, lo más probable será para que tú ejecutes un código malicioso.
