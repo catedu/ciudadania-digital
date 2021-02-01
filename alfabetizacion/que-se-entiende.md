@@ -1,11 +1,11 @@
 ## ¿ Qué se entiende por alfabetizacion digital?
-Pues depende del contexto y del momento, por ejemplo.. en el 2004 se inició en Aragón el programa Pizarra digital y luego Escuela 2.0 en aquella época se consideraba *Alfabeto digital* que el profesor fuera capaz de dar clase con el proyector y/o PDI de forma correcta, lo que se llamaba *La pizarra del profesorado*
+Pues depende del contexto y del momento, por ejemplo.. en el 2004 se inició en Aragón el programa Pizarra digital y luego Escuela 2.0 en aquella época se consideraba *Alfabetización digital* a la capaciad de que el profesorado de dar clase con el proyector y/o PDI de forma correcta, lo que se llamaba *La pizarra del profesorado*
 
 ![](/assets/HOJARUTA.jpg)
 
 ##Marco de referencia de la comptencia digital docente
 
-Actualmente el estandard de la alabetización digital la encontramos en el **Marco de Referencia de la Competencia Digital Docente** donde se definen las capacidades digitales que necesitan desarrollar los docentes. Es un documento que se ha desarrollado en el INTEF en colaboración con las comunidades autónomas y se encuentra actualizado en este enlace: http://aprende.intef.es/mccdd?
+Actualmente el estándar de la alfabetización digital la encontramos en el **Marco de Referencia de la Competencia Digital Docente** donde se definen las capacidades digitales que necesitan desarrollar los docentes. Es un documento que se ha desarrollado en el INTEF en colaboración con las comunidades autónomas y se encuentra actualizado en este enlace: http://aprende.intef.es/mccdd?
 
 ![](/assets/marcodigital.jpg)
 

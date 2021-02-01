@@ -98,7 +98,7 @@ Existen programas bloqueadores pero no lo recomendamos pues a veces bloquean fun
 
 Busca un país X, y luego navega por otras páginas, te aparecerá ofertas de vuelos a X, hoteles en X, las 10 cosas más interesantes a visitar en X, mira un vídeo de Youtube y después te sugiere vídeos sobre X ... parece inofensivo pero a veces no lo es.
 
-Por ejemplo, busco algo de bricolage, y me aparece anuncios de colonias de hombre, busco moda, y me aparece de mujer. Luchamos por una educación no sexista pero los medios de comunicación y en este caso Internet necesitan más control control, pues los errores que aparecen son graves y tienen mucha más influencia en nuestros jóvenes que la que reciben de los centros educativos.
+Por ejemplo, busco algo de bricolage, y me aparece anuncios de colonias de hombre, busco moda, y me aparece de mujer. Luchamos por una educación no sexista pero los medios de comunicación y en este caso Internet necesitan más control, pues los errores que aparecen son graves y tienen mucha más influencia en nuestros jóvenes que la que reciben de los centros educativos.
 
 ![](/assets/publicidad5.jpg)
 
