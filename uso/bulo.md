@@ -9,8 +9,8 @@
 Tenemos que tener en cuenta que casi siempre **hay una intención oculta no ética y lucrativa** de los creadores de los bulos:
 
 * Provocar una **desestabilización económica** por ejemplo [este bulo](https://elpais.com/internacional/2013/04/23/actualidad/1366738727_668448.html) causó la caía de 150 puntos en Wall Street con el considerable beneficio económico de los autores
-* **Destabilización política** como las que causaron el [Asalto al Capitolio](https://es.wikipedia.org/wiki/Asalto_al_Capitolio_de_los_Estados_Unidos_de_2021#Planificaci%C3%B3n_del_ataque) o teorías conspirativas como [Pizzagate](https://es.wikipedia.org/wiki/Pizzagate) que influyo en las elecciones de EEUU a favor de Trump.
-* Los ciberdeluentes usan los bulos para **robar datos personales y bancarios** como [este](https://www.abc.es/espana/comunidad-valenciana/abci-policia-nacional-alerta-estafa-sobre-mercadona-procedente-estados-unidos-202005311117_noticia.html?ref=https:%2F%2Fwww.google.com%2F)
+* **Desestabilización política** como las que causaron el [Asalto al Capitolio](https://es.wikipedia.org/wiki/Asalto_al_Capitolio_de_los_Estados_Unidos_de_2021#Planificaci%C3%B3n_del_ataque) o teorías conspirativas como [Pizzagate](https://es.wikipedia.org/wiki/Pizzagate) que influyo en las elecciones de EEUU a favor de Trump.
+* Los ciberdelincuentes usan los bulos para **robar datos personales y bancarios** como [este](https://www.abc.es/espana/comunidad-valenciana/abci-policia-nacional-alerta-estafa-sobre-mercadona-procedente-estados-unidos-202005311117_noticia.html?ref=https:%2F%2Fwww.google.com%2F)
 
 ![](/assets/bulo3.jpg)
 
