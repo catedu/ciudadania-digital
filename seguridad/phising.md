@@ -28,6 +28,12 @@ Igualmente en correos electrónicos, links en imágenes, whatsapps, ...
 
 Es una de las técnicas del Phising: hacerse pasar por una entidad, banco, etc.. y sus enlaces van a otro sitio, con la intención de coger tus claves bancarias, tarjetas...
 
+En resumen: Recibes un mensaje o visitas una página... que te lleva a otro sitio que crees que es el que es pero es otra, y cogen tus datos, incluso tu tarjeta de crédito !!
+
+![](/assets/banco.jpg)
+
+Te recomendamos leer este consejo de la Guardia Civil :
+
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">¡Evita caer en el <a href="https://twitter.com/hashtag/phishing?src=hash&amp;ref_src=twsrc%5Etfw">#phishing</a>!<br><br>Aprender a identificar cualquier correo fraudulento 😈📧⚠ con esta infografía de <a href="https://twitter.com/osiseguridad?ref_src=twsrc%5Etfw">@osiseguridad</a> <br><br>➕ℹ👇<a href="https://t.co/ZojDB7HLW1">https://t.co/ZojDB7HLW1</a> <a href="https://t.co/kNeGm68NkX">pic.twitter.com/kNeGm68NkX</a></p>&mdash; Guardia Civil 🇪🇸 (@guardiacivil) <a href="https://twitter.com/guardiacivil/status/1259951412676567040?ref_src=twsrc%5Etfw">May 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Si no es HTTPS no te fies
