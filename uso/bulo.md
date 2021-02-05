@@ -45,6 +45,8 @@ Fíjate si es una página satírica, mala redacción, exagera, es **alarmista**.
 
 Una pregunta ¿tiene fecha y fuente? un comunicado oficial no olvida esos detalles.
 
+>El tema de los bulos es leña en algunos problemas sociales y políticos, por ejemplo en la xenofobia. El Gobierno de Aragón ha elaborado estrategias dentro del programa "Aragon sin bulos" [ver](https://www.aragon.es/documents/20127/2523474/I+Estrategia+Antirrumores+y+Antidiscriminaci%C3%B3n+de+Arag%C3%B3n.pdf)
+
 ## Dale un vistazo a los últimos Bulos
 
 A continuación se muestran los últimos tweets de @StopBulos :
