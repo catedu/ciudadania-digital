@@ -3,7 +3,7 @@ Pues depende del contexto y del momento, por ejemplo.. en el 2004 se inició en 
 
 ![](/assets/HOJARUTA.jpg)
 
-##Marco de referencia de la comptencia digital docente
+##Marco de referencia de la competencia digital docente
 
 Actualmente el estándar de la alfabetización digital la encontramos en el **Marco de Referencia de la Competencia Digital Docente** donde se definen las capacidades digitales que necesitan desarrollar los docentes. Es un documento que se ha desarrollado en el INTEF en colaboración con las comunidades autónomas y se encuentra actualizado en este enlace: http://aprende.intef.es/mccdd?
 
