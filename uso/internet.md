@@ -135,3 +135,4 @@ Por último, vamos a comentar un uso racional de la red en los momentos que haya
 * Conectarse por wifi en vez de datos móviles
 * Mensajes y audios ocupan menos que los vídeos.
 * Comprime los adjuntos de los emails o manda links
+  * Utiliza [nuestros consejos de almacenamiento en la nube](https://catedu.github.io/resolucion-de-problemas/almacenamiento.html).

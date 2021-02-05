@@ -39,8 +39,8 @@
 * [Uso Internet y email](uso/internet.md)
 * [Bulos](uso/bulo.md)
 * [Ética](uso/etica.md)
-* [Ayuda](uso/ayuda.md)
 
 ---
+* [Ayuda](uso/ayuda.md)
 * [Memes](meme.md)
 * [Créditos](creditos.md)
