@@ -25,8 +25,7 @@ Innovar utilizando la tecnología digital, participar activamente en produccione
 
 **NIVEL BÁSICO :**
 * Sabe que puede usar las tecnologías digitales en su labor profesional habitual para buscar
-soluciones alternativas e innovadoras que faciliten las tareas de aprendizaje.
-* En alguna ocasión las utiliza de forma creativa.
+soluciones alternativas e innovadoras que faciliten las tareas de aprendizaje. En alguna ocasión las utiliza de forma creativa.
 
 ## Identificación de lagunas en la competencia digital
 Comprender las necesidades de mejora y actualización de la propia competencia, apoyar a otros en el desarrollo de su propia competencia digital, estar al corriente de los nuevos desarrollos.
