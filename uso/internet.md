@@ -130,7 +130,7 @@ Te recomiendo ver este vídeo. Ponte los subtítulos si tienes problemas para se
 
 Por último, vamos a comentar un uso racional de la red en los momentos que haya saturación (por ejemplo en el último confinamiento del COVID) [extraido de Telefónica](https://www.fundaciontelefonica.com/noticias/pautas-uso-responsable-internet/) :
 
-* Priorizar el estudio y el trabajo frente al Rocio
+* Priorizar el estudio y el trabajo frente al ocio
 * Usar el teléfono fijo en vez del móvil
 * Conectarse por wifi en vez de datos móviles
 * Mensajes y audios ocupan menos que los vídeos.
