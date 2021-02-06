@@ -49,11 +49,13 @@ Una pregunta ¿tiene fecha y fuente? un comunicado oficial no olvida esos detall
 
 ## OJO CON LA DIFUSIÓN DE CIERTOS MEMES
 
-Tienes que ser consciente de la difusión de ciertos memes con una intención oculta no ética, por ejemplo el siguiente meme incita a la islamofobia.
+Tienes que ser consciente de la difusión de ciertos memes con una intención oculta no ética, por ejemplo el siguiente meme es **xenófobo**, presupone que los más válidos se van y los sospechosos inmigrantes vienen.
 
 ![](/assets/meme.jpg)
 
-Muchos de estos memes están creados por grupos radicales, no participes en su difusión.
+Muchos de estos memes están creados por grupos radicales y utilizan momentos de crísis, como en este caso la económica para su difusión.
+
+No participes en su difusión.
 
 ## Dale un vistazo a los últimos Bulos
 
