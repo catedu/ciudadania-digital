@@ -36,7 +36,7 @@ Si al final estás tentando en extenderlo, por favor, antes **VERIFÍCALO** busc
 
 Que en la redacción diga que es de la Guardia Civil, no cuesta nada entrar en la cuenta oficial de la web o RRSS de la Guardia Civil si dicen esa noticia. Si no lo dicen es que NO ES VERDAD.
 
-Si la noticia es de hace varias horas y ningún medio de comunicación profesional ha hecho eco, entonces ES FALSO.
+Si la noticia es de hace varias horas y ningún medio de comunicación profesional ha hecho eco, entonces **ES FALSO**.
 
 
 3️⃣ **Fíjate en la redacción**
@@ -46,6 +46,14 @@ Fíjate si es una página satírica, mala redacción, exagera, es **alarmista**.
 Una pregunta ¿tiene fecha y fuente? un comunicado oficial no olvida esos detalles.
 
 >El tema de los bulos es leña en algunos problemas sociales y políticos, por ejemplo en la xenofobia. El Gobierno de Aragón ha elaborado estrategias dentro del programa "Aragon sin bulos" [ver](https://www.aragon.es/documents/20127/2523474/I+Estrategia+Antirrumores+y+Antidiscriminaci%C3%B3n+de+Arag%C3%B3n.pdf)
+
+## OJO CON LA DIFUSIÓN DE CIERTOS MEMES
+
+Tienes que ser consciente de la difusión de ciertos memes con una intención oculta no ética, por ejemplo el siguiente meme incita a la islamofobia.
+
+![](/assets/meme.jpg)
+
+Muchos de estos memes están creados por grupos radicales, no participes en su difusión.
 
 ## Dale un vistazo a los últimos Bulos
 
