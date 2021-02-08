@@ -13,8 +13,14 @@ Tenemos que preguntarnos ....
 
 *[Fuente Iberdrola- Compromiso social -  Ética digital](https://www.iberdrola.com/compromiso-social/etica-en-internet)*
 
+## La comunidad de Internet
+
 Internet es una cosa maravillosa, crea comunidad si se está abierto a la comunicación y a la veracidad.
 
 ![](/assets/etica1.jpg)
 
 Photo by jesse orrico on Unsplash
+
+Como anécdota de la potencialidad de la red, vamos a ilustrar un caso reciente de David contra Goliath, el caso de GAMESTOP
+
+{% youtube %} https://www.youtube.com/watch?v=OskBYvoqD30{% endyoutube %}
