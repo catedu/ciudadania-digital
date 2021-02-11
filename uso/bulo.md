@@ -57,6 +57,16 @@ Muchos de estos memes están creados por grupos radicales y utilizan momentos de
 
 No participes en su difusión.
 
+## TROLS o HATERS
+
+En Internet, sobre todo las **redes sociales** hay mucha más tendencia en expresar **críticas negativas destructivas** que positivas. En especial en ciertos perfiles de algunas personas que buscan provocar, ofender .... es lo que se llama un [Trol](https://es.wikipedia.org/wiki/Trol_(Internet))
+
+**No muerdas el anzuelo y no alimentes al Trol** lo mejor que puedes hacer es ignorar estos comportamientos y si eres el administrador de ese foro, blog, ... expulsarlo.
+
+![](/assets/troll.jpg)
+
+<span>Photo by <a href="https://unsplash.com/@mbaumi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mika Baumeister</a> on <a href="https://unsplash.com/s/photos/hate?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
 ## Dale un vistazo a los últimos Bulos
 
 A continuación se muestran los últimos tweets de @StopBulos :
