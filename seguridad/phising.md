@@ -22,9 +22,11 @@ Pon el cursor encima sin hacer click y fíjate abajo a la izquierda :
 
 ![](/assets/enlaces.jpg)
 
-Igualmente en correos electrónicos, links en imágenes, whatsapps, ...
+Igualmente en correos electrónicos, links en imágenes, whatsapps, ... este es un correo real que me ha llegado, parece que es de Endesa, pero no lo es  😱 :
 
-![](/assets/enlaces2.jpg)
+![](/assets/email-spam.jpg)
+
+Me pregunto para qué quieren mi DNI escaneado .. 🤔
 
 Es una de las técnicas del Phising: hacerse pasar por una entidad, banco, etc.. y sus enlaces van a otro sitio, con la intención de coger tus claves bancarias, tarjetas...
 
