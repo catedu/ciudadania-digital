@@ -28,7 +28,11 @@ Igualmente en correos electrónicos, links en imágenes, whatsapps, ... este es 
 
 Me pregunto para qué quieren mi DNI escaneado .. 🤔
 
-Es una de las técnicas del Phising: hacerse pasar por una entidad, banco, etc.. y sus enlaces van a otro sitio, con la intención de coger tus claves bancarias, tarjetas...
+Lo que tenemos que hacer por **ética** es **denunciar** es la única manera de mantener a raya estos delicuentes, una manera fácil es desde el mismo gestor de email:
+
+![](/assets/email-spam2.jpg)
+
+En resumen: Una de las técnicas del Phising: hacerse pasar por una entidad, banco, etc.. y sus enlaces van a otro sitio, con la intención de coger tus claves bancarias, tarjetas...
 
 En resumen: Recibes un mensaje o visitas una página... que te lleva a otro sitio que crees que es el que es pero es otra, y cogen tus datos, incluso tu tarjeta de crédito !!
 
