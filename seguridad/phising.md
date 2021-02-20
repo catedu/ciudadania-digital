@@ -34,8 +34,6 @@ Lo que tenemos que hacer por **ética** es **denunciar** es la única manera de 
 
 En resumen: Una de las técnicas del Phising: hacerse pasar por una entidad, banco, etc.. y sus enlaces van a otro sitio, con la intención de coger tus claves bancarias, tarjetas...
 
-En resumen: Recibes un mensaje o visitas una página... que te lleva a otro sitio que crees que es el que es pero es otra, y cogen tus datos, incluso tu tarjeta de crédito !!
-
 ![](/assets/banco.jpg)
 
 Te recomendamos leer este consejo de la Guardia Civil :
