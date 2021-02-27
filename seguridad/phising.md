@@ -36,6 +36,8 @@ En resumen: Una de las técnicas del Phising: hacerse pasar por una entidad, ban
 
 ![](/assets/banco.jpg)
 
+(Un ejemplo típico es ofrecer el robot de cocina Lidl por 2€)[https://www.elmundo.es/tecnologia/2021/02/26/6037674221efa050108b462f.html].
+
 Te recomendamos leer este consejo de la Guardia Civil :
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">¡Evita caer en el <a href="https://twitter.com/hashtag/phishing?src=hash&amp;ref_src=twsrc%5Etfw">#phishing</a>!<br><br>Aprender a identificar cualquier correo fraudulento 😈📧⚠ con esta infografía de <a href="https://twitter.com/osiseguridad?ref_src=twsrc%5Etfw">@osiseguridad</a> <br><br>➕ℹ👇<a href="https://t.co/ZojDB7HLW1">https://t.co/ZojDB7HLW1</a> <a href="https://t.co/kNeGm68NkX">pic.twitter.com/kNeGm68NkX</a></p>&mdash; Guardia Civil 🇪🇸 (@guardiacivil) <a href="https://twitter.com/guardiacivil/status/1259951412676567040?ref_src=twsrc%5Etfw">May 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -71,3 +73,7 @@ Y **bajo ningún concepto** des "Permisos" para descargar o continuar. Se instal
 > No descargues software ni archivos de sitios no oficiales o de confianza.
 > ## y por supuesto ..
 > Nada de piratería!! Si te llega un programa de pago pero de manera gratuita piensa... ¿por qué lo hacen? ¿altruismo? No, lo más probable será para que tú ejecutes un código malicioso.
+
+## Tweets de los últimos Phisings
+
+<a href="https://twitter.com/intent/tweet?button_hashtag=phising&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #phising</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
