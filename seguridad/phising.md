@@ -73,7 +73,3 @@ Y **bajo ningún concepto** des "Permisos" para descargar o continuar. Se instal
 > No descargues software ni archivos de sitios no oficiales o de confianza.
 > ## y por supuesto ..
 > Nada de piratería!! Si te llega un programa de pago pero de manera gratuita piensa... ¿por qué lo hacen? ¿altruismo? No, lo más probable será para que tú ejecutes un código malicioso.
-
-## Tweets de los últimos Phisings
-
-<a href="https://twitter.com/intent/tweet?button_hashtag=phising&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #phising</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
