@@ -36,7 +36,7 @@ En resumen: Una de las técnicas del Phising: hacerse pasar por una entidad, ban
 
 ![](/assets/banco.jpg)
 
-(Un ejemplo típico es ofrecer el robot de cocina Lidl por 2€)[https://www.elmundo.es/tecnologia/2021/02/26/6037674221efa050108b462f.html].
+[Un ejemplo típico es ofrecer el robot de cocina Lidl por 2€](https://www.elmundo.es/tecnologia/2021/02/26/6037674221efa050108b462f.html).
 
 Te recomendamos leer este consejo de la Guardia Civil :
 
