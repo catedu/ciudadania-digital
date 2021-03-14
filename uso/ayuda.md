@@ -43,4 +43,8 @@ Este canal se encarga también de responder a las consultas que tienen entrada a
 
 ![](/assets/bulo2.jpg)
 
-Verificar bulos automáticamente: [Enviando un whatsapp al 644 229 319 ](https://api.whatsapp.com/send?phone=34644229319&text=&source=&data=&app_absent=) es muy cómodo si te llega por WhatsApp pues sólo tienes que reenviarlo al teléfono de Maldita.es, un buen truco es añadir este teléfono en tus contactos.
+Verificar bulos automáticamente: [Enviando un whatsapp al 644 229 319 ](https://api.whatsapp.com/send?phone=34644229319&text=&source=&data=&app_absent=) es muy cómodo si te llega por WhatsApp pues sólo tienes que reenviarlo al teléfono de Maldita.es, **un buen truco muy cómodo es añadir este teléfono en tus contactos**.
+
+Este es un pantallazo de mi WhatsApp ejemplo real de uso de verificación de bulos, le pasé una foto y esto me contestó:
+
+![](/assets/malditasea.jpg)
