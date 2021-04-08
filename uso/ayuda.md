@@ -37,6 +37,7 @@ La Agencia Española de Protección de Datos ha establecido un canal específico
 * WhatsApp: 616 172 204
 Este canal se encarga también de responder a las consultas que tienen entrada a través de la Sede electrónica de la Agencia.
 * Además en la web Tú decides https://www.tudecideseninternet.es
+* En Aragón Delegado de protección de datos del Departamento de Educación, Cultura y Deporte protecciondedatosecd@aragon.es
 
 
 ## Bulos
