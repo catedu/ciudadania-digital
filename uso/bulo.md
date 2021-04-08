@@ -47,6 +47,8 @@ Una pregunta ¿tiene fecha y fuente? un comunicado oficial no olvida esos detall
 
 >El tema de los bulos es leña en algunos problemas sociales y políticos, por ejemplo en la xenofobia. El Gobierno de Aragón ha elaborado estrategias dentro del programa "Aragon sin bulos" [ver](https://www.aragon.es/documents/20127/2523474/I+Estrategia+Antirrumores+y+Antidiscriminaci%C3%B3n+de+Arag%C3%B3n.pdf)
 
+![](https://www.fecyt.es/sites/default/files/educasinc/guia_para_frenar_difusion_de_bulos.jpg)
+
 ## OJO CON LA DIFUSIÓN DE CIERTOS MEMES
 
 Tienes que ser consciente de la difusión de ciertos memes con una intención oculta no ética, por ejemplo el siguiente meme es **xenófobo**, presupone que los más válidos se van y los sospechosos inmigrantes vienen.
