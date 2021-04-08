@@ -63,3 +63,15 @@ Los requisitos específicos se pueden leer con detalle en el documento, aquí va
 >Si quiere consultar con detalle los requisitos de este nivel y de los niveles B y C consulta el documento en http://aprende.intef.es/mccdd?
 
 *Autor INTEF http://aprende.intef.es/ Licencia CC-BY-SA*
+
+## ¿Y las competencias digitales del Alumnado?
+
+Las establece la legislación, concretamente la LOMCE http://www.educacionyfp.gob.es/educacion/mc/lomce/curriculo/competencias-clave/digital.html
+
+![](/assets/competencia-digital-log.png)
+
+## ¿Y las competencias digitales del ciudadano?
+
+Están fijadas en 8 niveles de profundización https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/digcomp-21-digital-competence-framework-citizens-eight-proficiency-levels-and-examples-use
+
+![](/assets/competencia-digital-ciudadano.jpg)
