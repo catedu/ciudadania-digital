@@ -23,6 +23,7 @@
 * [Peligros](seguridad/peligros.md)
 * [Recursos](seguridad/recursos.md)
 * [Control parental](seguridad/control-parental.md)
+* [Cuida tu identidad](/seguridad/cuida.md)
 * [Para saber +](seguridad/para-saber-+.md)
 
 ## Capítulo 3 Licencias
