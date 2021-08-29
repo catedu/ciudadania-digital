@@ -18,7 +18,7 @@ Fijarte dónde va exáctamente el enlace. **EL TEXTO DE UN ENLACE Y EL ENLACE SO
 
 #### Para detectarlo
 
-Pon el cursor encima sin hacer click y fíjate abajo a la izquierda :
+Pon el cursor encima sin hacer click ("hover") y fíjate abajo a la izquierda :
 
 ![](/assets/enlaces.jpg)
 
